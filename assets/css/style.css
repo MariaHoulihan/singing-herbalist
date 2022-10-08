@@ -162,11 +162,33 @@ h1, h2, h3 {
     margin: 0 auto;
 }
 
-/* list styling */
+/* div style for div containing list */
 
-ol, ul {
-    text-align: center;
+#tea {
+    background-color: darkgreen;
 }
+
+/* list for tea receipe styling */
+
+ul {
+    }
+
+#one {
+    text-align: center;
+    font-size: 160%;
+    background-color: antiquewhite;
+    width: 50%;
+    border: 5px solid #3a3a3a;
+    padding: 10px;
+    margin: 0 auto;
+    list-style-type: none;
+}
+
+.one {
+    text-decoration: underline;
+    font-weight: bold;
+}
+
 
 /* footer styling */
 
