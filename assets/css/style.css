@@ -73,7 +73,7 @@ h1, h2, h3 {
 
 #hero-text {
     background-color: antiquewhite;
-    width: 600px;
+    width: 50%;
     border: 5px solid #3a3a3a;
     padding: 10px;
     margin: 0 auto;
@@ -101,7 +101,7 @@ h1, h2, h3 {
 
 #hero-text2 {
     background-color: antiquewhite;
-    width: 600px;
+    width: 50%;
     border: 5px solid #3a3a3a;
     padding: 10px;
     margin: 0 auto;
@@ -116,7 +116,7 @@ h1, h2, h3 {
 
 #hero-text3 {
     background-color: antiquewhite;
-    width: 600px;
+    width: 50%;
     border: 5px solid #3a3a3a;
     padding: 10px;
     margin: 0 auto;
@@ -144,7 +144,7 @@ h1, h2, h3 {
 
 #about h1 {
     background-color: antiquewhite;
-    width: 600px;
+    width: 50%;
     border: 5px solid #3a3a3a;
     padding: 10px;
     margin: 0 auto;
@@ -156,7 +156,7 @@ h1, h2, h3 {
 
 .about-h1 {
     background-color: antiquewhite;
-    width: 600px;
+    width: 50%;
     border: 5px solid #3a3a3a;
     padding: 10px;
     margin: 0 auto;
@@ -200,4 +200,20 @@ footer {
     margin: 1%;
     padding: 5%;
     color: antiquewhite;
+}
+
+
+/* breakpoint for landscape tablet devices */
+@media screen and (max-width: 992px) {
+    
+  }
+
+  /* breakpoint for large mobile devices */
+@media screen and (max-width: 768px) {
+    
+}
+
+/* breakpoint for small mobile devices */
+@media screen and (max-width: 600px) {
+    
 }
