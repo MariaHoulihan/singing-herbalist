@@ -14,7 +14,7 @@ body {
 
 /* headings and logo styling */
 
-h1, h2 {
+h1, h2, h3 {
     font-family: Karla, sans-serif;
     letter-spacing: 3px;
     color: #252525;
@@ -59,15 +59,50 @@ h1, h2 {
 
 #hero-image {
     height: 600px;
-    width: 50%;
+    width: 100%;
     background: url('../images/hero-image.jpg') no-repeat center center;
     overflow: hidden;
 }
 
+#hero-image {
+    text-align: center;
+    background-color: darkgreen;
+    text-decoration: solid;
+    text-transform: capitalize;
+}
+
+#hero-text {
+    background-color: antiquewhite;
+    width: 600px;
+    border: 5px solid black;
+    padding: 20px;
+    margin: 0 auto;
+}
+
+
 #hero2-image {
     height: 600px;
-    width: 50%;
-    background: url('../images/hero2-image.jpg') no-repeat center right;
+    width: 100%;
+    background: url('../images/hero2-image.jpg') no-repeat center center;
     overflow: hidden;
-    float: right;
+}
+
+#hero-text2 {
+    color: black;
+}
+
+
+#hero2-image {
+    text-align: center;
+    background-color: darkgreen;
+    text-decoration: solid;
+    text-transform: capitalize;
+}
+
+#hero-text2 {
+    background-color: antiquewhite;
+    width: 600px;
+    border: 5px solid black;
+    padding: 20px;
+    margin: 0 auto;
 }
