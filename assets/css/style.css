@@ -37,3 +37,20 @@ h1, h2 {
     list-style-type: none;
     margin-right: 30px;
 }
+
+#pages-menu, #my-logo {
+    line-height: 75px;
+}
+
+#pages-menu a {
+    text-decoration: none;
+    color: inherit;
+}
+
+#pages-menu a:hover {
+    border-bottom: 1px solid #3a3a3a;
+}
+
+.active {
+    border-bottom: 1px solid #3a3a3a;
+}
