@@ -162,6 +162,12 @@ h1, h2, h3 {
     margin: 0 auto;
 }
 
+/* list styling */
+
+ol, ul {
+    text-align: center;
+}
+
 /* footer styling */
 
 .bold {
@@ -172,10 +178,13 @@ h1, h2, h3 {
 #foot {
     text-align: center;
     font-size: 160%;
+    color: antiquewhite;
 }
 
 footer {
     height: 150px;
+    background-color: darkgreen;
+    padding: 5%;
 }
 
 .social-networks {
@@ -190,5 +199,5 @@ footer {
     font-size: 160%;
     margin: 1%;
     padding: 5%;
-    color: #3a3a3a;
+    color: antiquewhite;
 }
