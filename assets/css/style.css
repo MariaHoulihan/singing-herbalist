@@ -140,12 +140,13 @@ h1, h2, h3 {
 #about {
     text-align: center;
     text-transform: capitalize;
+    padding: 40px;
 }
 
 #about h1 {
     background-color: antiquewhite;
     width: 50%;
-    border: 5px solid #3a3a3a;
+    border: 5px solid #d3d0d0;
     padding: 10px;
     margin: 0 auto;
 }
@@ -166,12 +167,11 @@ h1, h2, h3 {
 
 #tea {
     background-color: darkgreen;
+    padding: 20px;
 }
 
 /* list for tea receipe styling */
 
-ul {
-    }
 
 #one {
     text-align: center;
