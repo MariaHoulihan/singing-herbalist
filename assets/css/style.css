@@ -284,12 +284,30 @@ input {
     text-transform: capitalize;
 }
 
-#treatment-text {
+#treatment-text, #treatment2-text {
     background-color: antiquewhite;
     width: 50%;
     border: 5px solid #3a3a3a;
     padding: 10px;
     margin: 0 auto;
+}
+
+/* treatment menu styling */
+
+#treatment-text {
+    text-align: center;
+    text-transform: capitalize;
+    padding: 45px;
+    font-size: 160%;
+}
+
+#treatment2-text {
+    text-decoration: underline;
+    text-transform: uppercase;
+    text-align: center;
+    padding: 45px;
+    font-size: 160%;
+
 }
 
 /* breakpoint for landscape tablet devices */
