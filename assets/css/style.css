@@ -242,6 +242,56 @@ footer {
     width: 100%;
 }
 
+/* form styling */
+
+
+#inquiry-form {
+    text-align: center;
+    font-size: 160%;
+    text-transform: capitalize;
+}
+
+fieldset {
+    background-color: antiquewhite;
+    padding: 20px;
+}
+  
+legend {
+    background-color: #3a3a3a;
+    color: antiquewhite;
+    padding: 10px 10px;
+    font-size: 160%;
+}
+  
+input {
+    margin: 5px;
+}
+  
+
+/* treatment page background styling */
+
+#treatment-image {
+    height: 600px;
+    width: 100%;
+    background: url('../images/east-clare-image.jpg') no-repeat center center;
+    overflow: hidden;
+}
+
+#treatment-image {
+    text-align: center;
+    background-color: darkgreen;
+    text-decoration: solid;
+    text-transform: capitalize;
+}
+
+#treatment-text {
+    background-color: antiquewhite;
+    width: 50%;
+    border: 5px solid #3a3a3a;
+    padding: 10px;
+    margin: 0 auto;
+}
+
 /* breakpoint for landscape tablet devices */
 @media screen and (max-width: 992px) {
     
