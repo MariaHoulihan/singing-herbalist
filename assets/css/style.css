@@ -169,7 +169,7 @@ h1, h2, h3 {
     margin: 0 auto;
 }
 
-/* div style for div containing list */
+/* div style for div containing list in index file */
 
 #tea {
     background-color: darkgreen;
@@ -194,7 +194,6 @@ h1, h2, h3 {
     text-decoration: underline;
     font-weight: bold;
 }
-
 
 /* footer styling */
 
@@ -230,6 +229,18 @@ footer {
     color: antiquewhite;
 }
 
+/* gallery file photo styling */
+
+#photos {
+    clear: both;
+    line-height: 0;
+    column-count: 4;
+    column-gap: 0;
+}
+
+#photos > img {
+    width: 100%;
+}
 
 /* breakpoint for landscape tablet devices */
 @media screen and (max-width: 992px) {
