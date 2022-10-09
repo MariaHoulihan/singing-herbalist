@@ -137,11 +137,17 @@ h1, h2, h3 {
 
 /* about h1 and paragraph styling */
 
-#about {
+#about, #about2 {
     text-align: center;
     text-transform: capitalize;
-    padding: 40px;
+    padding: 45px;
 }
+
+#about2 {
+    font-weight: bold;
+    font-style: italic;
+}
+
 
 #about h1 {
     background-color: antiquewhite;
@@ -151,7 +157,7 @@ h1, h2, h3 {
     margin: 0 auto;
 }
 
-.about1 {
+.about1, .about1a {
     font-size: 160%;
 }
 
