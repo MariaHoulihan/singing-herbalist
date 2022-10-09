@@ -176,7 +176,7 @@ h1, h2, h3 {
     padding: 20px;
 }
 
-/* list for tea receipe styling */
+/* list for tea recipe styling */
 
 
 #one {
@@ -267,6 +267,10 @@ input {
     margin: 5px;
 }
   
+input:hover {
+    background-color: chartreuse;
+}
+
 
 /* treatment page background styling */
 
@@ -312,6 +316,8 @@ input {
 
 /* breakpoint for landscape tablet devices */
 @media screen and (max-width: 992px) {
+
+
     
   }
 
