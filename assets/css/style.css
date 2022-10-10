@@ -14,7 +14,9 @@ body {
 
 /* headings and logo styling */
 
-h1, h2, h3 {
+h1,
+h2,
+h3 {
     font-family: Karla, sans-serif;
     letter-spacing: 3px;
     color: #252525;
@@ -38,7 +40,8 @@ h1, h2, h3 {
     margin-right: 30px;
 }
 
-#pages-menu, #my-logo {
+#pages-menu,
+#my-logo {
     line-height: 75px;
 }
 
@@ -137,7 +140,8 @@ h1, h2, h3 {
 
 /* about h1 and paragraph styling */
 
-#about, #about2 {
+#about,
+#about2 {
     text-align: center;
     text-transform: capitalize;
     padding: 45px;
@@ -156,7 +160,8 @@ h1, h2, h3 {
     margin: 0 auto;
 }
 
-.about1, .about1a {
+.about1,
+.about1a {
     font-size: 160%;
 }
 
@@ -169,7 +174,8 @@ h1, h2, h3 {
     text-align: center;
 }
 
-#does-what, #fav-drink {
+#does-what,
+#fav-drink {
     text-align: center;
     text-transform: capitalize;
     padding: 45px;
@@ -220,7 +226,7 @@ footer {
     text-align: center;
 }
 
-.social-networks > li {
+.social-networks>li {
     display: inline;
 }
 
@@ -240,7 +246,7 @@ footer {
     column-gap: 0;
 }
 
-#photos > img {
+#photos>img {
     width: 100%;
 }
 
@@ -257,18 +263,18 @@ fieldset {
     background-color: antiquewhite;
     padding: 20px;
 }
-  
+
 legend {
     background-color: #3a3a3a;
     color: antiquewhite;
     padding: 10px 10px;
     font-size: 100%;
 }
-  
+
 input {
     margin: 5px;
 }
-  
+
 input:hover {
     background-color: chartreuse;
 }
@@ -290,7 +296,8 @@ input:hover {
     text-transform: capitalize;
 }
 
-#treatment-text, #treatment2-text {
+#treatment-text,
+#treatment2-text {
     background-color: antiquewhite;
     width: 50%;
     border: 5px solid #3a3a3a;
@@ -336,6 +343,7 @@ input:hover {
 #video {
     display: flex;
 }
+
 iframe {
     margin: 20px auto;
 }
@@ -347,11 +355,12 @@ iframe {
     }
 }
 
-  /* breakpoint for large mobile devices */
+/* breakpoint for large mobile devices */
 @media screen and (max-width: 768px) {
     header h1 {
         text-align: center;
     }
+
     #photos {
         column-count: 3;
     }
@@ -362,8 +371,9 @@ iframe {
     header h1 {
         text-align: center;
     }
+
     #photos {
         column-count: 2;
     }
-    
+
 }
