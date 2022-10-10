@@ -61,11 +61,27 @@ I confirm that the project is responsive and works on all standard screen sizes 
 
 ## Validator Testing:
 
+### HTML
+No errors or warnings were noted when passing through the official W3C validator.
+
+### CSS
+No errors were noted when passing through the Jigsaw, CSS offical validator.
+
+### Accessibility
+I confirm that colors and fonts are easy to read and also that the accessiblity is high as can be seen in the below screenshot taken about it was ran through lighthouse in dev tools.
+
+![My Image](assets/images/lighthouse-for-singing-herbalist.PNG)
+
 ### Unfixed Bugs
 
 No unfixed bugs to the best of my knowledge.
 
 ## Deployment:
+
+The site was deployed to GitHub pages and the code is:
+
+# link here!!
+
 
 ## Credits:
 
@@ -82,16 +98,3 @@ The styling for fieldset and legend were partially taken from https://www.w3scho
 ### Media
 
 The video was taken from https://www.youtube.com/
-
-## Validator Testing:
-
-### HTML
-No errors or warnings were noted when passing through the official W3C validator.
-
-### CSS
-No errors were noted when passing through the Jigsaw, CSS offical validator.
-
-### Accessibility
-I confirm that colors and fonts are easy to read and also that the accessiblity is high as can be seen in the below screenshot taken about it was ran through lighthouse in dev tools.
-
-![My Image](assets/images/lighthouse-for-singing-herbalist.PNG)
