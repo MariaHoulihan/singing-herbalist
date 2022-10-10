@@ -44,6 +44,19 @@ The footer also includes social media icons that open in a new tab when clicked 
 
 ## Testing:
 
+I confirm that navigation, header, home, treatments and gallery pages are all easy to understand. All are readable.
+
+I confirm the website works in Chrome, Safari and Firefox.
+
+I have confirmed that the form will only accept an email in the email field and that the Make Inquiry button is functional. I have confirmed that the input fields and button have a color change when the mouse is hovered over them.
+
+I confirm that the social media icons in the footer of each page work, and that they all open in a new tab on the browser window.
+
+I confirm that the video plays in the browser.
+
+I confirm that the project is responsive and works on all standard screen sizes using the dev tools device toolbar.
+
+
 ## Bugs:
 
 ## Validator Testing:
@@ -79,6 +92,6 @@ No errors or warnings were noted when passing through the official W3C validator
 No errors were noted when passing through the Jigsaw, CSS offical validator.
 
 ### Accessibility
-I confirm that colors and fonts are easy to read and also that the accessiblity is high as it was ran through lighthouse in dev tools.
+I confirm that colors and fonts are easy to read and also that the accessiblity is high as can be seen in the below screenshot taken about it was ran through lighthouse in dev tools.
 
 ![My Image](assets/images/lighthouse-for-singing-herbalist.PNG)
