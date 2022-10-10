@@ -33,10 +33,38 @@ This form allows the user to make an informal inquiry to The Singing Herbalist, 
 
 The form will not submit without an email address in the email field. Also there is a color change when the mouse is hovered over the input fields for First Name, Last Name, Email and also the Make Inquiry button.
 
-### The Footer
+### The Footer:
 
 ![My Image](assets/images/footer.PNG)
 
 The footer is present at the end of all three of the wenbsites pages. It provides the user with a phone number and email address for The Singing Herbalist and encourages users to contact them. 
 
 The footer also includes social media icons that open in a new tab when clicked to allow users to find The Singing Herbalist on Facebook, YouTube and Instagram without navigating away from their website.
+
+## Testing
+
+## Bugs
+
+## Validator Testing:
+
+### Unfixed Bugs
+
+No unfixed bugs to the best of my knowledge.
+
+## Deployment:
+
+## Credits
+
+### Content
+
+The code to create the social media links and their style was taken from Code Institute's Love Running project.
+
+The code to style the gallery images was taken from Code Institute's Love Running project.
+
+The input styling and also video styling were taken from https://www.w3schools.com 
+
+The styling for fieldset and legend were partially taken from https://www.w3schools.com
+
+### Media
+
+The video was taken from https://www.youtube.com/
