@@ -340,12 +340,18 @@ input:hover {
     list-style-type: none;
 }
 
+/* video styling */
+
 #video {
     display: flex;
 }
 
 iframe {
     margin: 20px auto;
+}
+
+.video-header {
+    text-align: center;
 }
 
 /* breakpoint for landscape tablet devices */
