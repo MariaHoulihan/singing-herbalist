@@ -23,10 +23,20 @@ The navigation is in a color that contrasts with the background.
 
 ![My Image](assets/images/treatment-prices.PNG)
 
-This is very useful for the user as it shows them exactly what type of treatments are available at the Singing Herbalist's clinic, the duration of each treatment and the price.
+This is very useful for the user as it shows them exactly what type of treatments are available at The Singing Herbalist's clinic, the duration of each treatment and the price.
 
 ### The Inquiry Form:
 
 ![My Image](assets/images/inquiry-form.PNG)
 
-This form 
+This form allows the user to make an informal inquiry to The Singing Herbalist, especially if requested a made-to-order oil, ointment or salve.
+
+The form will not submit without an email address in the email field. Also there is a color change when the mouse is hovered over the input fields for First Name, Last Name, Email and also the Make Inquiry button.
+
+### The Footer
+
+![My Image](assets/images/footer.PNG)
+
+The footer is present at the end of all three of the wenbsites pages. It provides the user with a phone number and email address for The Singing Herbalist and encourages users to contact them. 
+
+The footer also includes social media icons that open in a new tab when clicked to allow users to find The Singing Herbalist on Facebook, YouTube and Instagram without navigating away from their website.
