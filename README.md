@@ -11,6 +11,7 @@ Users of this website will be able to find all the information they need to know
 ## Features:
 
 ### Navgation
+
 ![My Image](assets/images/logo-nav-links.PNG)
 
 Featured at the top, to the right of each of the websites three pages are navigation links to: Home, Treatments and Gallery. 
@@ -19,13 +20,13 @@ The logo located in the top left hand corner when clicked will navigate back to 
 
 The navigation is in a color that contrasts with the background.
 
-### The Treatment Menu:
+### The Treatment Menu
 
 ![My Image](assets/images/treatment-prices.PNG)
 
 This is very useful for the user as it shows them exactly what type of treatments are available at The Singing Herbalist's clinic, the duration of each treatment and the price.
 
-### The Inquiry Form:
+### The Inquiry Form
 
 ![My Image](assets/images/inquiry-form.PNG)
 
@@ -33,7 +34,7 @@ This form allows the user to make an informal inquiry to The Singing Herbalist, 
 
 The form will not submit without an email address in the email field. Also there is a color change when the mouse is hovered over the input fields for First Name, Last Name, Email and also the Make Inquiry button.
 
-### The Footer:
+### The Footer
 
 ![My Image](assets/images/footer.PNG)
 
@@ -41,9 +42,9 @@ The footer is present at the end of all three of the wenbsites pages. It provide
 
 The footer also includes social media icons that open in a new tab when clicked to allow users to find The Singing Herbalist on Facebook, YouTube and Instagram without navigating away from their website.
 
-## Testing
+## Testing:
 
-## Bugs
+## Bugs:
 
 ## Validator Testing:
 
@@ -53,7 +54,7 @@ No unfixed bugs to the best of my knowledge.
 
 ## Deployment:
 
-## Credits
+## Credits:
 
 ### Content
 
@@ -68,3 +69,16 @@ The styling for fieldset and legend were partially taken from https://www.w3scho
 ### Media
 
 The video was taken from https://www.youtube.com/
+
+## Validator Testing:
+
+### HTML
+No errors or warnings were noted when passing through the official W3C validator.
+
+### CSS
+No errors were noted when passing through the Jigsaw, CSS offical validator.
+
+### Accessibility
+I confirm that colors and fonts are easy to read and also that the accessiblity is high as it was ran through lighthouse in dev tools.
+
+![My Image](assets/images/lighthouse-for-singing-herbalist.PNG)
