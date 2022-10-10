@@ -2,7 +2,13 @@
 
 ## Introduciton to the website:
 
+The Singing Herbalist website is a landing page for people who are interested in herbal treatments and consultations in East Clare, Ireland. The Singing Herbalist offers professional yet caring therapies for individuals looking for a # The Singing HNerbalist
+
+## Introduciton to the website:
+
 The Singing Herbalist website is a landing page for people who are interested in herbal treatments and consultations in East Clare, Ireland. The Singing Herbalist offers professional yet caring therapies for individuals looking for a herbal consultation, massage therapy or singer!
+
+u tion, massage therapy or singer!
 
 Users of this website will be able to find all the information they need to know about the Singing Herbalist, about the available treatments, pricing and contact information. There is an inquiry form for users who wish to start the process of an informal query with the Singing Herbalist.
 
@@ -60,6 +66,14 @@ I confirm that the project is responsive and works on all standard screen sizes 
 
 ## Bugs:
 
+Initially when I ran the html code for all 3 of the website pages there were errors and warnings. There was an error on the script for the font awesome kit. I had placed the script tag for the kit outide of the body closing tag. Moving the font awesome script tag to inside the closing body tag fixed that. 
+
+Also I had some opening tags but forgot the closing tags. All of these were easily fixed by going to the relevant lines of code and deleting or inserting closing tags.
+
+I was a bit confused about id and class. In a few places I put id instead of class. The Nu Html Checker highlighted this and I able to rename id for class identifiers in the html and also make changes in the CSS as were necessary. This has really helped my learning and I feel more confident in using id and class as a result.
+
+I had a space in one of the navigation links that I was not aware of until I checked the html code. The Nu html checker warned me of this and I deleted the space, and then it functioned appropriately.
+
 ## Validator Testing:
 
 ### HTML
@@ -79,9 +93,9 @@ No unfixed bugs to the best of my knowledge.
 
 ## Deployment:
 
-The site was deployed to GitHub pages and the code is:
-
 ![My Image](assets/images/live.PNG)
+
+The site was deployed to GitHub pages and the code is:
 
 https://mariahoulihan.github.io/singing-herbalist/
 
