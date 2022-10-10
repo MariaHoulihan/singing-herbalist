@@ -148,7 +148,6 @@ h1, h2, h3 {
     font-style: italic;
 }
 
-
 #about h1 {
     background-color: antiquewhite;
     width: 50%;
@@ -167,6 +166,13 @@ h1, h2, h3 {
     border: 5px solid #3a3a3a;
     padding: 10px;
     margin: 0 auto;
+    text-align: center;
+}
+
+#does-what, #fav-drink {
+    text-align: center;
+    text-transform: capitalize;
+    padding: 45px;
 }
 
 /* div style for div containing list in index file */
@@ -174,12 +180,14 @@ h1, h2, h3 {
 #tea {
     background-color: darkgreen;
     padding: 20px;
+    text-align: center;
+    list-style-type: none;
 }
 
 /* list for tea recipe styling */
 
 
-#one {
+.serves-one {
     text-align: center;
     font-size: 160%;
     background-color: antiquewhite;
@@ -190,11 +198,6 @@ h1, h2, h3 {
     list-style-type: none;
 }
 
-.one {
-    text-decoration: underline;
-    font-weight: bold;
-}
-
 /* footer styling */
 
 .bold {
@@ -202,7 +205,7 @@ h1, h2, h3 {
     text-align: center;
 }
 
-.foot {
+#foot {
     text-align: center;
     color: antiquewhite;
 }
@@ -246,7 +249,7 @@ footer {
 
 #inquiry-form {
     text-align: center;
-    font-size: 160%;
+    font-size: 100%;
     text-transform: capitalize;
 }
 
@@ -259,7 +262,7 @@ legend {
     background-color: #3a3a3a;
     color: antiquewhite;
     padding: 10px 10px;
-    font-size: 160%;
+    font-size: 100%;
 }
   
 input {
@@ -310,12 +313,30 @@ input:hover {
     text-align: center;
     padding: 45px;
     font-size: 160%;
-
 }
-#video{
+
+#prices {
+    background-color: darkgreen;
+    padding: 20px;
+    text-align: center;
+    list-style-type: none;
+    color: antiquewhite;
+}
+
+#prices h3 {
+    text-decoration: underline;
+    font-weight: 900;
+    color: black;
+}
+
+#prices li {
+    list-style-type: none;
+}
+
+#video {
     display: flex;
 }
-iframe{
+iframe {
     margin: 20px auto;
 }
 
