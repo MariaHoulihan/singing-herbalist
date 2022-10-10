@@ -6,7 +6,8 @@ The Singing Herbalist website is a landing page for people who are interested in
 
 Users of this website will be able to find all the information they need to know about the Singing Herbalist, about the available treatments, pricing and contact information. There is an inquiry form for users who wish to start the process of an informal query with the Singing Herbalist.
 
-# /* am i responsive screen shot to go here */
+![My Image](assets/images/responsive1.PNG)
+
 
 ## Features:
 
@@ -80,8 +81,15 @@ No unfixed bugs to the best of my knowledge.
 
 The site was deployed to GitHub pages and the code is:
 
-# link here!!
+![My Image](assets/images/live.PNG)
 
+https://mariahoulihan.github.io/singing-herbalist/
+
+#### The deployment method is as follows:
+
+I went to my repository for my project, the link is https://github.com/MariaHoulihan/singing-herbalist
+
+I clicked settings in my repository. Next I selected Pages on the menu on the left hand side of the screen, which took me to GitHub pages. I clicked on Source and selected main from the drop down menu. Then I pressed saved. I refreshed the page and my site was live and the link is above in the screen shot and also in the text.  
 
 ## Credits:
 
