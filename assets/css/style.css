@@ -202,9 +202,8 @@ h1, h2, h3 {
     text-align: center;
 }
 
-#foot {
+.foot {
     text-align: center;
-    font-size: 160%;
     color: antiquewhite;
 }
 
@@ -313,6 +312,12 @@ input:hover {
     font-size: 160%;
 
 }
+#video{
+    display: flex;
+}
+iframe{
+    margin: 20px auto;
+}
 
 /* breakpoint for landscape tablet devices */
 @media screen and (max-width: 992px) {
@@ -323,7 +328,9 @@ input:hover {
 
   /* breakpoint for large mobile devices */
 @media screen and (max-width: 768px) {
-    
+    header h1{
+        text-align: center;
+    }
 }
 
 /* breakpoint for small mobile devices */
